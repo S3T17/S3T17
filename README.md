@@ -1,4 +1,4 @@
-<span style="color:orange;">SOSMED</span>
+## SOSMED
 <a href="https://www.instagram.com/setya_1899"><img src="https://img.shields.io/badge/instagram%20@setya_1899-DD2476?style=for-the-badge&logo=instagram&logoColor=white"/></a><br>
 <a href="https://www.facebook.com/muhammad.setya.77"><img src="https://img.shields.io/badge/facebook%20@Setya-344E86?style=for-the-badge&logo=facebook&logoColor=white"/></a><br>
 <a href="https://twitter.com/SetyaUtsugi/"><img src="https://img.shields.io/badge/twitter%20@SetyaUtsugi-0D95E8?style=for-the-badge&logo=twitter&logoColor=white"/></a><br>
