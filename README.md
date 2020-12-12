@@ -12,7 +12,7 @@
 <br>
 ![Python](https://img.shields.io/badge/-python-grey?style=for-the-badge&logo=python&logoColor=white&labelColor=00bbf9)
 ![Java](https://img.shields.io/badge/-java-grey?style=for-the-badge&logo=java&logoColor=white&labelColor=00bbf9)
-![PHP](https://img.shields.io/badge/-php-grey?style=for-the-badge&logo=php&logoColor=white&labelColor=00bbf9)\
+![PHP](https://img.shields.io/badge/-php-grey?style=for-the-badge&logo=php&logoColor=white&labelColor=00bbf9)
 ![MySQL](https://img.shields.io/badge/-mysql-grey?style=for-the-badge&logo=mysql&logoColor=white&labelColor=00bbf9)
 ![MariaDB](https://img.shields.io/badge/-mariadb-grey?style=for-the-badge&logo=mariadb&logoColor=white&labelColor=00bbf9)
 ![Git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=00bbf9)
