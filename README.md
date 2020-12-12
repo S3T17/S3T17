@@ -1,6 +1,6 @@
-- <a href="https://www.instagram.com/setya_1899"><img src="https://img.shields.io/badge/instagram%20@x_n3ur0n-DD2476?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-- <a href="https://www.facebook.com/muhammad.setya.77"><img src="https://img.shields.io/badge/facebook%20@mohamedchibani420-344E86?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-- <a href="https://twitter.com/SetyaUtsugi/"><img src="https://img.shields.io/badge/twitter%20@B1ack_x_Hack3r-0D95E8?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+- <a href="https://www.instagram.com/setya_1899"><img src="https://img.shields.io/badge/instagram%20@setya_1899-DD2476?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+- <a href="https://www.facebook.com/muhammad.setya.77"><img src="https://img.shields.io/badge/facebook%20@Setya-344E86?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+- <a href="https://twitter.com/SetyaUtsugi/"><img src="https://img.shields.io/badge/twitter%20@SetyaUtsugi-0D95E8?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 
 
 ![HTML5](https://img.shields.io/badge/html%205-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=00bbf9)
