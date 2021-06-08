@@ -10,7 +10,7 @@
 ![Jquery](https://img.shields.io/badge/-jquery-grey?style=for-the-badge&logo=jquery&logoColor=white&labelColor=00bbf9)\
 ![Sass](https://img.shields.io/badge/-sass-grey?style=for-the-badge&logo=sass&logoColor=white&labelColor=00bbf9)
 ![Bootstrap](https://img.shields.io/badge/-bootstrap-grey?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=00bbf9)
-![Bulma](https://img.shields.io/badge/-bulma-grey?style=for-the-badge&logo=bulma&logoColor=white&labelColor=00bbf9)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-grey?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=00bbf9)
 ![Angular JS](https://img.shields.io/badge/-angular_js-grey?style=for-the-badge&logo=angular&logoColor=white&labelColor=00bbf9)
 <br>
 ![Python](https://img.shields.io/badge/-python-grey?style=for-the-badge&logo=python&logoColor=white&labelColor=00bbf9)
