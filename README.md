@@ -21,3 +21,6 @@
 ![Git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=00bbf9)
 ![Github](https://img.shields.io/badge/-github-grey?style=for-the-badge&logo=github&logoColor=white&labelColor=00bbf9)
 <br>
+
+##APPLICITION
+![Figma]https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white
